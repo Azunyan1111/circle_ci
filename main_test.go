@@ -11,7 +11,7 @@ func TestHello2(t *testing.T) {
 
 func TestHello3(t *testing.T) {
 	s := Hello()
-	if s == "Hello World2"{
+	if s == "Hello World2a"{
 		t.Fatal("Error: Hello func test code. return miss")
 	}
 }
